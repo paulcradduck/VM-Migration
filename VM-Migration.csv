@@ -1,0 +1,2 @@
+﻿VMName,Path,TargetNetwork,TargetNetwork2,TargetCluster,TargetFolder,TargetDSName
+Windows-VM-Example,[OLD_PRD_Datastore] Windows-VM-Example/Windows-VM-Example.vmx,Application_Port_Group,Application_Port_Group_2,New_Prod_Clustre,/Prod/Windows virtual machine,New_PRD_Datastore
